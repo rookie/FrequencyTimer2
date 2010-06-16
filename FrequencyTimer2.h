@@ -22,7 +22,7 @@
 */
 
 
-#include <wiring.h>
+#include <inttypes.h>
 
 class FrequencyTimer2
 {
